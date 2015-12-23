@@ -1,7 +1,7 @@
 {
   "name": "generator-brcs",
   "version": "1.0.0",
-  "description": "Browserify + React + CoffeeScript + Stylus app template with live reload",
+  "description": "Gulp + Browserify + React + CoffeeScript + Stylus app template with live reload",
   "keywords": [
     "yeoman-generator"
   ],
@@ -33,7 +33,7 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "travisechapman@gmail.com",
+  "author": "Travis Chapman",
   "files": [
     "generators/app"
   ],
